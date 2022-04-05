@@ -35,7 +35,7 @@
     "flat-cache": "^2.0.1",
     "ishqbb-calpheonjs": "^1.0.3",
     "jwks-rsa": "^1.9.0",
-    "moment": "^2.27.0",
+    "moment": "^2.29.2",
     "multer": "^1.4.2",
     "pg": "^8.6.0",
     "qs": "^6.9.4",
