@@ -43,7 +43,7 @@
     "slonik": "^23.7.0",
     "socks-proxy-agent": "^5.0.1",
     "twitch": "^4.5.5",
-    "winston": "^3.3.3"
+    "winston": "^3.17.0"
   },
   "devDependencies": {
     "@types/chai": "^4.2.15",
